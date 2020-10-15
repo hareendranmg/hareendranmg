@@ -57,15 +57,15 @@
 
 
 
-<p align="center">
+<div align="center">
 
 <a href="https://hareendran.ml/"><img alt="Website" src="https://img.shields.io/badge/https://hareendran.ml-blueviolet?style=flat-square&logo=google-chrome"></a>
+</div>
 
-
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/hareendran-mg-286a2296"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hareendran%20MG-blue?style=flat-square&logo=linkedin"></a> <a href="https://www.instagram.com/hareendran_mg/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hareendran_mg-red?style=flat-square&logo=instagram"></a>
-</p>
+</div>
 
 <p align="center">
 
@@ -75,16 +75,4 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=hareendranmg.hareendranmg)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-
-
-
-
 <hr>
-
-
-
-
-
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hareendranmg&show_icons=true&theme=radical)
