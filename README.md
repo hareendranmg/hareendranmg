@@ -55,6 +55,11 @@
 
 <br>
 
+<div align="center">
+  
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=hareendranmg.hareendranmg)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+</div>
 
 
 <div align="center">
@@ -67,12 +72,11 @@
 <a href="https://www.linkedin.com/in/hareendran-mg-286a2296"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hareendran%20MG-blue?style=flat-square&logo=linkedin"></a> <a href="https://www.instagram.com/hareendran_mg/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hareendran_mg-red?style=flat-square&logo=instagram"></a>
 </div>
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.facebook.com/hareendranmg"><img alt="Facebook" src="https://img.shields.io/badge/FaceBook-Hareendran%20MG-informational?style=flat-square&logo=facebook"></a> <a href="https://twitter.com/hareendran_mg"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Hareendran%20MG-9cf?style=flat-square&logo=twitter"></a> <a href="mailto:hareendranmg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hareendranmg@gmail.com-important?style=flat-square&logo=gmail"></a>
 
-</p>
+</div>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=hareendranmg.hareendranmg)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <hr>
