@@ -33,11 +33,12 @@
 
 <br/>
 
+<div align="center">
+
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hareendranmg&show_icons=true)](https://github.com/hareendranmg)
 
+</div>
 <br/>
-
-<br>
 
 
 
