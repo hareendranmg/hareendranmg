@@ -25,7 +25,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Firebase | Docker🐳 | Python |
+- 🔧 &nbsp; 🔥Firebase | 🐳Docker | 🐍Python |
 
 <hr>
 
