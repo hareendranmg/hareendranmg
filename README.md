@@ -1,15 +1,17 @@
 ### Hi there 👋
-<h2> I'm Hareendran</h2> <div align="right">![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=hareendranmg.hareendranmg&style=flat-square) </div>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="230" align='right'>
-
-<h3> 👨🏻•💻 About Me </h3>
 
 
+<h2> I'm Hareendran <img style="float: right;" src="https://visitor-badge.laobi.icu/badge?page_id=hareendranmg.hareendranmg&style=flat-square" alt="visitor badge"/> </h2>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="230" align='right'>
 
-- 🎓 &nbsp; Working at KELTRON as a Web and Mobile App Developer.
+<h3> 🧑‍💻 About Me </h3>
+
+
+
+- 🌐 &nbsp; Exploring new technologies and developing software solutions.
+
+- 💼 &nbsp; Working at KELTRON as a Web and Mobile App Developer.
 
 - 🌱 &nbsp; Learning about Django, Amazon AWS.
 
@@ -19,7 +21,7 @@
 
 - 💻 &nbsp; PHP | Dart | JavaScript | PostgreSQL
 
-- 🌐 &nbsp; Laravel | Flutter | React Native | Wordpress | Firebase
+- ⚙️ &nbsp; Laravel | Flutter | React Native | Wordpress | Firebase
 
 - 🔧 &nbsp; Git | VS Code  | Docker
 
@@ -30,9 +32,10 @@
 
 <br/>
 
-<div align="center">
+<div>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hareendranmg&show_icons=true&count_private=true)](https://github.com/hareendranmg)
+![](https://github-readme-stats.vercel.app/api?username=hareendranmg&show_icons=true&count_private=true&hide=issues) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hareendranmg&layout=compact)
+----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------
 
 </div>
 <br/>
