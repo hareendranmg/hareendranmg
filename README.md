@@ -26,10 +26,6 @@
 - 🔧 &nbsp; Git | VS Code  | Docker
 
 
-<hr>
-
-
-
 <br/>
 
 <div>
