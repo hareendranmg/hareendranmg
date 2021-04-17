@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Hareendran</h2>
+### Hi there 👋<h2> I'm Hareendran</h2> ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=hareendranmg.hareendranmg&style=flat-square)   
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="230" align='right'>
 
@@ -36,18 +36,3 @@
 </div>
 <br/>
 
-
-
-<hr>
-
-
-<br>
-
-<div align="center">
-  
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=hareendranmg.hareendranmg&style=flat-square)   
-
-</div>
-
-
-<hr>
