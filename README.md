@@ -8,9 +8,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Working at KELTRON as a Web Developer.
+- 🎓 &nbsp; Working at KELTRON as a Web and Mobile App Developer.
 
-- 🌱 &nbsp; Learning about Flutter, Laravel.
+- 🌱 &nbsp; Learning about Django, Amazon AWS.
 
 
 <h3>🛠 Tech Stack</h3>
@@ -18,14 +18,10 @@
 
 - 💻 &nbsp; PHP | Dart | JavaScript | PostgreSQL
 
-- 🌐 &nbsp; Laravel | Flutter | React Native | Wordpress
+- 🌐 &nbsp; Laravel | Flutter | React Native | Wordpress | Firebase
 
-- 🔧 &nbsp; Git | VS Code 
+- 🔧 &nbsp; Git | VS Code  | Docker
 
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; 🔥Firebase | 🐳Docker | 🐍Python |
 
 <hr>
 
@@ -45,31 +41,11 @@
 <hr>
 
 
-
-<h3> 🤝🏻 Connect with Me </h3>
-
 <br>
 
 <div align="center">
   
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=hareendranmg.hareendranmg&style=flat-square)   
-
-</div>
-
-
-<div align="center">
-
-<a href="https://hareendran.ml/"><img alt="Website" src="https://img.shields.io/badge/https://hareendran.ml-blueviolet?style=flat-square&logo=google-chrome"></a>
-</div>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/hareendran-mg-286a2296"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hareendran%20MG-blue?style=flat-square&logo=linkedin"></a> <a href="https://www.instagram.com/hareendran_mg/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hareendran_mg-red?style=flat-square&logo=instagram"></a>
-</div>
-
-<div align="center">
-
-<a href="https://www.facebook.com/hareendranmg"><img alt="Facebook" src="https://img.shields.io/badge/FaceBook-Hareendran%20MG-informational?style=flat-square&logo=facebook"></a> <a href="https://twitter.com/hareendran_mg"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Hareendran%20MG-9cf?style=flat-square&logo=twitter"></a> <a href="mailto:hareendranmg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hareendranmg@gmail.com-important?style=flat-square&logo=gmail"></a>
 
 </div>
 
