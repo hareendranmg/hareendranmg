@@ -23,7 +23,7 @@
 
 - ⚙️ &nbsp; Laravel | Flutter | React Native | Wordpress | Firebase
 
-- 🔧 &nbsp; Git | VS Code  | Docker
+- 🔧 &nbsp; Git | VS Code
 
 
 <br/>
