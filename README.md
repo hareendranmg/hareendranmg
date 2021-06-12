@@ -21,7 +21,7 @@
 
 - 💻 &nbsp; PHP | Dart | JavaScript | PostgreSQL
 
-- ⚙️ &nbsp; Laravel | Flutter | React Native | Wordpress | Firebase
+- ⚙️ &nbsp; Laravel | Flutter | Firebase | Wordpress
 
 - 🔧 &nbsp; Git | VS Code
 
