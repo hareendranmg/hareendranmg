@@ -11,17 +11,17 @@
 
 - 🌐 &nbsp; Exploring new technologies and developing software solutions.
 
-- 💼 &nbsp; Working at KELTRON as a Web and Mobile App Developer.
+- 💼 &nbsp; Working at Tachlog as a Embedded Software Engineer.
 
-- 🌱 &nbsp; Learning about Django, Amazon AWS.
+- 🌱 &nbsp; Learning about QT, Embedded Linux
 
 
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; PHP | Dart | JavaScript | PostgreSQL
+- 💻 &nbsp; C | Python | Dart | JavaScript | PostgreSQL
 
-- ⚙️ &nbsp; Laravel | Flutter | Firebase | Wordpress
+- ⚙️ &nbsp; QT | Laravel | Flutter | Firebase 
 
 - 🔧 &nbsp; Git | VS Code
 
