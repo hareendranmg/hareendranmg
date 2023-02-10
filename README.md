@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h2> I'm Hareendran <img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=hareendranmg.hareendranmg&style=flat-square" alt="visitor badge"/> </h2>
+<h2> Hareendran here <img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=hareendranmg.hareendranmg&style=flat-square" alt="visitor badge"/> </h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="230" align='right'>
 
@@ -11,7 +11,7 @@
 
 - 🌐 &nbsp; Exploring new technologies and developing software solutions.
 
-- 💼 &nbsp; Working at Tachlog as a Embedded Software Engineer.
+- 💼 &nbsp; Working at [Tachlog](https://tachlog.com) as a Embedded Software Engineer.
 
 - 🌱 &nbsp; Learning about QT, Embedded Linux
 
